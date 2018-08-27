@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+legend{
+	color:#909;
+	font-size:14px;
+	font-weight:bold;
+	padding-left:32px;
+}
+  
+span{
+	color:#C03;
+}
+.start{
+	width:900px;
+}
+.start a{color:#039;
+         font-size:12px;
+		 font-weight:bold;
+		 float:right;
+		   }
+ 
+	 
+		  
+		
+	a:hover{
+		color:#C00;
+	}
+.start span{
+	font-weight:bold;
+	 float:right;
+	 color:#333;
+}
+ fieldset {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+ }
+ form{
+	 border:groove;
+	 width:900px;
+ }
+  
+  #tiaokuan{
+	  font-size:12px;
+	  color: #909090;
+  }
+  #yanzheng{
+	  color:#909;
+	  padding-left:28px;
+  }
+  #lianjie{
+	  color:#F03;
+  }
+  #fanhui{
+	  color:#C30;
+	  font-weight:bold;
+	  
+  }
+  table.bot{
+	  padding-left:150px;
+  }
+	  
